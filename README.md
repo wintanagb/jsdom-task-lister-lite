@@ -14,7 +14,7 @@ Check out the [working demo][example]!
 
 Instead of relying on unit tests, this lab is deliverable driven. You will be
 responsible for asserting your solution works as intended by testing the
-behavior visually in the browser.
+behavior  visually in the browser.
 
 1. Fork and clone this repository
 2. Open `index.html` in Chrome (Tip: you can use `open index.html` in bash and, as long as Chrome is your default application for opening `.html` files, it will automatically open the file)
